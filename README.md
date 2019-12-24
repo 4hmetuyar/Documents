@@ -11,3 +11,7 @@
 ## [Nesne Yönelimli Programlama(Object Oriented Programming)](https://medium.com/@4hmetuyar/nesne-y%C3%B6nelimli-programlama-object-oriented-programming-28219ff3d953)
 ---
 ## [Defensive Programming Nedir ?](https://medium.com/@4hmetuyar/defensive-programming-nedir-592bafa07c9e)
+
+---
+## [JavaScript’de En Çok Kullanılan Array Metodları](https://medium.com/@4hmetuyar/javascriptde-en-%C3%A7ok-kullan%C4%B1lan-array-metodlar%C4%B1-39ffa81de5b3)
+
