@@ -1,5 +1,7 @@
 # Documents &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
 
+## [Bir .Net’cinin Java’ya geçiş hikayesi](https://medium.com/@4hmetuyar/bir-netcinin-java-ya-ge%C3%A7i%C5%9F-hikayesi-f07b2689c2f9)
+
 ## [Atomik Tasarım (Atomic Design) Nedir ? ](https://medium.com/@4hmetuyar/atomik-tasar%C4%B1m-atomic-design-nedir-2879a82ee9a1)
 ---
 ## [Code Review Nedir Neden Yapılır ? ](https://medium.com/@4hmetuyar/code-review-nedir-neden-yap%C4%B1l%C4%B1r-ae2ecf8ca444)
